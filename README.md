@@ -185,4 +185,5 @@ print(f"P-Value: {p}")
 <img width="395" height="62" alt="image" src="https://github.com/user-attachments/assets/ef45177c-5ef9-433a-9ac8-e17e9020ad07" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the program to read the given data and perform Feature Scaling and Feature Selection process and
+save the data to a file is been executed.
