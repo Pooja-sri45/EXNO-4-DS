@@ -85,6 +85,7 @@ new_data
 columns_list=list(new_data.columns)
 print(columns_list)
 ```
+<img width="1521" height="42" alt="image" src="https://github.com/user-attachments/assets/8139821c-01d7-4cac-822d-1a6e483dfe61" />
 
 ```
 features=list(set(columns_list)-set(['SalStat']))
